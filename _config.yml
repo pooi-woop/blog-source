@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 皖月清风的个人博客
+subtitle: 'The Blog Of Pooiwoop'
 description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+keywords:"皖月清风, Pooiwoop, 个人博客, 技术博客, 博客,三角洲行动,go,vue"
+author: 皖月清风
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://pooiwoop.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
