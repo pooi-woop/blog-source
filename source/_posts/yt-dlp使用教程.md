@@ -1,9 +1,13 @@
 ---
 title: yt-dlp使用教程
-tags: [视频下载, yt-dlp]
+tags:
+  - 视频下载
+  - yt-dlp
 cover: img/photo/85940e964bf0dff3705bf4a3225b36aa35174354.jpg
 banner: img/photo/85940e964bf0dff3705bf4a3225b36aa35174354.jpg
+date: 2026-03-20 18:00:32
 ---
+
  # yt-dlp 使用教程
 
 yt-dlp 是一个功能强大的命令行视频/音频下载工具，支持 YouTube、Bilibili、抖音、小红书等 **1800+ 个网站**。它是 youtube-dl 的活跃分支，更新更频繁，功能更强大。
