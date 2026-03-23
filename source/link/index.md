@@ -16,6 +16,10 @@ type: link
       link: https://butterfly.js.org/
       avatar: https://butterfly.js.org/img/favicon.png
       descr: 一款基于Hexo的优雅主题
+    - name: Rinai 的私人花园
+      link: https://blog.g-rinai.cn/
+      avatar: https://via.placeholder.com/60
+      descr: Rinai 的个人博客
 
 - class_name: 论坛
   class_desc: 有趣的论坛社区
