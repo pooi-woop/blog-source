@@ -2,7 +2,7 @@
 title: 友情链接
 date: 2026-03-18 19:54:00
 type: link
-top_img: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Friendship%20links%20banner%20with%20blue%20background%20and%20white%20text&image_size=landscape_16_9
+top_img: img/2026/891148c46d6df7eb05bb27c1f826a42a1305904682.jpg
 ---
 
 {% flink %}
