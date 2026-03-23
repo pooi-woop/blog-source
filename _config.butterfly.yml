@@ -115,12 +115,12 @@ category_img: /img/7ff84c885b2fdb45d7faee23e82371261035330202.png
 category_per_img: 
 
 # 页脚背景图片
-footer_img: false
+footer_img: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimal%20dark%20blue%20footer%20background%20with%20subtle%20gradient&image_size=landscape_16_9
 
 # 网站背景
 # 可设置为颜色、图片 URL 或包含颜色和/或图片 URL 的数组
 # 如果提供数组，每次加载时会从数组中随机选择一个背景
-background: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimal%20dark%20blue%20abstract%20background%20for%20website&image_size=landscape_16_9
+background: img/2026/20260323-180427.012-16.jpg
 
 # 封面设置
 cover: 
