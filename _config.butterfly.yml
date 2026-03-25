@@ -115,7 +115,7 @@ category_img: /img/7ff84c885b2fdb45d7faee23e82371261035330202.png
 category_per_img: 
 
 # 页脚背景图片
-footer_img: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=minimal%20dark%20blue%20footer%20background%20with%20subtle%20gradient&image_size=landscape_16_9
+footer_img: img/2026/20260323-180427.012-4.jpg
 
 # 网站背景
 # 可设置为颜色、图片 URL 或包含颜色和/或图片 URL 的数组
