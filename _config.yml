@@ -104,3 +104,10 @@ deploy:
   type: git
   repo: https://github.com/pooi-woop/pooiwoop.github.io.git
   branch: main
+
+# 搜索
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html

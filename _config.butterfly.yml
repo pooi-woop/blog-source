@@ -601,9 +601,9 @@ math:
 search:
   # 选择: algolia_search / local_search / docsearch
   # 如果你不需要搜索，请留空
-  use:
+  use: local_search
   # 搜索框占位符
-  placeholder:
+  placeholder: 搜索文章
 
   # Algolia 搜索
   algolia_search:
